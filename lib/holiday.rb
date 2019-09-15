@@ -30,6 +30,7 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
       holiday.each do |activity, supply|
         activity => "Balloons"
       end
+      end
     end
   end
 end

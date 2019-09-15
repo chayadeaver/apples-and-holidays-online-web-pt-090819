@@ -75,7 +75,7 @@ def all_holidays_with_bbq(holiday_hash)
       supplies.each do |item|
         if item == "BBQ"
           days
-        end 
+        end
       end
     end
   end
